@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Random-Advice-Generator/static/css/main.eb80781b.css",
+    "main.js": "/Random-Advice-Generator/static/js/main.f4779c49.js",
+    "index.html": "/Random-Advice-Generator/index.html",
+    "main.eb80781b.css.map": "/Random-Advice-Generator/static/css/main.eb80781b.css.map",
+    "main.f4779c49.js.map": "/Random-Advice-Generator/static/js/main.f4779c49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb80781b.css",
+    "static/js/main.f4779c49.js"
+  ]
+}
